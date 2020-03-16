@@ -4,17 +4,13 @@
 
 #### 1. Create project directory
 
-> project-app-folder
 
-> > public
-
->- index.html
-
-> > src
- 
->- components
-
->- app.js
+	├── project-app
+    	├── public
+    	│   ├── index.html
+    	├── src
+    	│   ├── components
+    	└── app.js
 
 
 #### 2. Install [live-server](https://classic.yarnpkg.com/en/package/live-server)
