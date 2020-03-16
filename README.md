@@ -209,5 +209,9 @@
 #### 18. Build and Serve using webpack only!
 
 >
+	
 	$ yarn run dev-server
 
+
+Sources and learning:
+[https://www.udemy.com/course/react-2nd-edition/](https://www.udemy.com/course/react-2nd-edition/)
