@@ -10,7 +10,7 @@
     	│   ├── index.html
     	├── src
     	│   ├── components
-    	└── app.js
+    	│	├── app.js
 
 
 #### 2. Install [live-server](https://classic.yarnpkg.com/en/package/live-server)
