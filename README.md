@@ -38,7 +38,7 @@
 
 > 
 	
-	$ yarn add webpack
+	$ yarn add webpack webpack-cli
 
 
 #### 6. Install [babel-cli](https://classic.yarnpkg.com/en/package/babel-cli), [babel-core](https://classic.yarnpkg.com/en/package/babel-core) & [babel-loader](https://classic.yarnpkg.com/en/package/babel-loader)
