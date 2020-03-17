@@ -15,22 +15,16 @@
 
 #### 2. Install [live-server](https://classic.yarnpkg.com/en/package/live-server)
 	
-> if yarn:
+>
 	
 	$ yarn global add live-server
-> if npm:
-	
-	$ npm -g live-server
 
 
 #### 3. Create package.json file
 
-> if yarn:
+>
 	
 	$ yarn init
-> if npm:
-	
-	$ npm init
 
 
 #### 4. Install [react](https://classic.yarnpkg.com/en/package/react) & [react-dom](https://classic.yarnpkg.com/en/package/react-dom)
@@ -40,7 +34,7 @@
 	$ yarn add react react-dom
 
 
-#### 5. Install [webpack](https://classic.yarnpkg.com/en/package/webpack)
+#### 5. Install [webpack](https://classic.yarnpkg.com/en/package/webpack) and [webpack-cli](https://classic.yarnpkg.com/en/package/webpack-cli)
 
 > 
 	
